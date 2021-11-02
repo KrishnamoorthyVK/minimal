@@ -10,15 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Volvo Cars Corporation
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Volvo Cars is one of the most well-known and respected car brands in the world, with sales of 534,332 cars in 2016 in about 100 countries. Volvo Cars Corporation is largest legal entity in the Volvo Car Group, and is the company in which the business of the Swedish headquarters are conducted, as well as the business in the Torslanda, Skövde and Olofström plants. Volvo Car AB is the parent company of Volvo Car Group. Volvo.
 
-## Header 2
+## Daimler
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Daimler is a German multinational automotive corporation. Daimler is headquartered in Stuttgart, Germany. Daimler owns or has shares in a number of car, bus, truck and motorcycle brands including Mercedes-Benz, Mercedes-AMG, Smart Automobile, Detroit Diesel, Freightliner, Western Star, Thomas Built Buses, Setra, BharatBenz, Mitsubishi Fuso, MV Agusta as well as shares in Denza, KAMAZ, Beijing Automotive Group. Daimler is the thirteenth-largest car manufacturer and is the largest truck manufacturer in the world.
 
 ### Header 3
 
