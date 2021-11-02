@@ -10,9 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Volvo Cars Corporation
+# Data Science Portfolio
 
-Volvo Cars is one of the most well-known and respected car brands in the world, with sales of 534,332 cars in 2016 in about 100 countries. Volvo Cars Corporation is largest legal entity in the Volvo Car Group, and is the company in which the business of the Swedish headquarters are conducted, as well as the business in the Torslanda, Skövde and Olofström plants. Volvo Car AB is the parent company of Volvo Car Group. Volvo.
+---
+
+## Machine learning
+
+### Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+
+<center><img src="images/fraud_detection.jpg"/></center>
 
 ## Daimler
 
